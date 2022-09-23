@@ -1,6 +1,6 @@
 import "./Header.css";
 
-export default function Header(props) {
+export default function Header(props) { 
   return (
     <header>
       <nav className="navbar navbar-expand-lg bg-light">
