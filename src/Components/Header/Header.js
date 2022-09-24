@@ -4,7 +4,7 @@ export default function Header(props) {
   return (
     <header>
       <nav className="navbar navbar-expand-lg bg-light">
-        <div className="container-fluid">
+        <div className="container">
           <a className="navbar-brand" href="/">
             {props.name}
           </a>
